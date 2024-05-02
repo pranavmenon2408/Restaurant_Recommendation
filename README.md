@@ -10,13 +10,6 @@ Clone the repo and execute the following commands. Go to browser and enter http:
 
 ```python
 python manage.py makemigrations
-```
-
-```python
 python manage.py migrate
-```
-
-
-```python
 python manage.py runserver
 ```
