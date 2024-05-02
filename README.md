@@ -13,3 +13,5 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
+![Screenshot 2024-04-18 154016](https://github.com/pranavmenon2408/Restaurant_Recommendation/assets/118175842/9a5e086a-af1a-4155-ac14-c22c029b1538)
+
